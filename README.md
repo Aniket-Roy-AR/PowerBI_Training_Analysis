@@ -59,4 +59,7 @@ This Power BI project analyzes the **training status and cost metrics** based on
 ---
 
 ## 🚀 Author
-**Aniket Roy**
+👤 **Aniket Roy**  
+🎯 Business Analyst (Excel + SQL + MongoDB + Tableau + Power BI) 
+📬 aroy72325@gmail.com
+🔗 www.linkedin.com/in/aniket-roy-00251b214
