@@ -37,10 +37,10 @@ This Power BI project analyzes the **training status and cost metrics** based on
 ![Training Analysis](Training_Analysis_png)
 
 ### 🔹 Cost Analysis Dashboard
-![Cost Analysis](/Cost_Analysis_png)
+![Cost Analysis](Cost_Analysis_png)
 
 ### 🔹 Data Model View
-![Model View](screenshots/Model_View_png)
+![Model View](Model_View_png)
 
 ---
 
